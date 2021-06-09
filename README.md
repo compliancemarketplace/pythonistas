@@ -7,10 +7,15 @@ Teach and learn Python to everyone
 ### Classes
 
 1 - [Data types](/classes/data_types.ipynb)
+
 2 - [Loops](/classes/loops.ipynb)
+
 3 - [List Comprehension](/classes/list_comprehension.ipynb)
+
 4 - [Functions](/classes/functions.ipynb)
+
 5 - [Classes](/classes/class.ipynb)
+
 
 ### Challenges
 
@@ -19,6 +24,7 @@ Teach and learn Python to everyone
 ### References 
 
 - [Real Python](https://realpython.com/)
+
 - [W3Schools](https://www.w3schools.com/python/default.asp)
 
 ### Books
