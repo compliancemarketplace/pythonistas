@@ -1,4 +1,5 @@
 # Pythonistas
+![Alt Text](/images/python.gif)
 
 ### Objectives
 
