@@ -23,6 +23,7 @@ Teach and learn Python to everyone
 ### Challenges
 
 1 -  [Challenge 1 - Identifier Validator](challenges/challenge_1.ipynb)
+
 2 - [Review Exercises](challenges/review_exercises.md)
 
 ### References 
