@@ -15,7 +15,7 @@ Teach and learn Python to everyone
 
 4 - [Functions](/classes/functions.ipynb)
 
-5 - [Classes](/classes/class.ipynb)
+5 - [Classes](/classes/classes_1.ipynb)
 
 6 - [args e kwargs](/classes/non_positional_args)
 
