@@ -31,6 +31,7 @@ Teach and learn Python to everyone
 ### Execises
 
 1 - [Review Exercises](execises/classes/classes_exercise.py)
+
 2 - [Class](execises/classes/classes_exercise.py)
 
 ### References 
