@@ -1,5 +1,5 @@
 # Pythonistas
-![Alt Text](/images/python.gif)
+![Alt Text](https://i.stack.imgur.com/7OUwv.gif)
 
 ### Objectives
 
@@ -15,16 +15,23 @@ Teach and learn Python to everyone
 
 4 - [Functions](/classes/functions.ipynb)
 
-5 - [Classes](/classes/classes_1.ipynb)
+5 - [Class 1](/classes/class_1.ipynb)
+
+5 - [Class 2](/classes/class_2.ipynb)
 
 6 - [args e kwargs](/classes/non_positional_args)
 
 
 ### Challenges
 
-1 -  [Challenge 1 - Identifier Validator](challenges/challenge_1.ipynb)
+1 - [Identifier Validator](challenges/challenge_1.ipynb)
+2 - [Bank Validation](challenges/challenge_2/classes_challenge_1.ipynb)
 
-2 - [Review Exercises](challenges/review_exercises_1.md)
+
+### Execises
+
+1 - [Review Exercises](execises/classes/classes_exercise.py)
+2 - [Class](execises/classes/classes_exercise.py)
 
 ### References 
 
